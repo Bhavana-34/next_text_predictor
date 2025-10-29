@@ -4,11 +4,13 @@ A smart FAQ-style text generator built with **Streamlit** and **LSTM**! Type a p
 
 ---
 
+
+
 ## 🎥 Live Demo
 
 See it in action!
 
-![Next Text Predictor Demo](./demo.gif.gif)
+## [![Next Text Predictor Demo](/Bhavana-34/next_text_predictor/raw/main/demo.gif)](/Bhavana-34/next_text_predictor/blob/main/demo.gif)
 ---
 
 ## ✨ Features
