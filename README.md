@@ -9,7 +9,6 @@ A smart FAQ-style text generator built with **Streamlit** and **LSTM**! Type a p
 See it in action!
 
 ![Next Text Predictor Demo](./demo.gif)
-
 ---
 
 ## ✨ Features
